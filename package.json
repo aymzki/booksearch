@@ -1,5 +1,6 @@
 {
   "name": "booksearch",
+  "homepage": "http://aymzki.github.io/booksearch"
   "version": "0.1.0",
   "private": true,
   "dependencies": {
